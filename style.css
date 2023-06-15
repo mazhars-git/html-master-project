@@ -16,3 +16,17 @@
 .tag{
     color: rgb(17, 49, 211);
 }
+
+.form-link{
+    display: flex;
+}
+
+.form, .table{
+    background-color: rgb(79, 32, 32);
+    margin: 5px;
+    padding: 10px 20px;
+}
+.form a, .table a{
+    text-decoration: none;
+    color: #fff;
+}
