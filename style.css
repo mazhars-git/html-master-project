@@ -1,0 +1,18 @@
+*{
+    padding: 10px;
+    margin: 0;
+}
+
+.heading-container {
+    margin-bottom: 20px;
+    color: blue;
+}
+
+.heading-container p{
+    font-size: 40px;
+    font-weight: bold;
+    color: hotpink;
+}
+.basic-tags{
+    
+}
